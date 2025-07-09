@@ -30,9 +30,9 @@ Este é um projeto simples de gerenciamento de uma biblioteca, desenvolvido em P
 ## 🛠️ Estrutura do Projeto
 
 biblioteca-oop/
-├── livro.py # Classe Livro com atributos e método str
-├── biblioteca.py # Classe Biblioteca com métodos de manipulação da lista de livros
-└── main.py # Script principal com menu para o usuário
+- ├── livro.py # Classe Livro com atributos e método str
+- ├── biblioteca.py # Classe Biblioteca com métodos de manipulação da lista de livros
+- └── main.py # Script principal com menu para o usuário
 
 ---
 
